@@ -65,7 +65,7 @@ $database['main'] = array(
     'username'	=> 'root',
     'password'	=> '',
     'database'	=> 'webagrisync',
-    'charset'	=> '',
+    'charset'	=> 'utf8',
     'dbprefix'	=> '',
 );
 
